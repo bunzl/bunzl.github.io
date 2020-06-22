@@ -8,6 +8,14 @@ Frodo's name comes from the Old English name Fróda, meaning "wise by experience
 * love the one and only ring
 * hang around in Auenland
 * walk to the deadly mountain
+
+## Quote
 He once said:
 > bla bla blub and 
 > hui fui wui
+
+## image
+![Frodo jpg](https://upload.wikimedia.org/wikipedia/en/c/ca/BakshiFrodo.JPG)
+
+
+<img src="https://upload.wikimedia.org/wikipedia/en/c/ca/BakshiFrodo.JPG"/>
