@@ -8,3 +8,6 @@ Frodo's name comes from the Old English name Fróda, meaning "wise by experience
 * love the one and only ring
 * hang around in Auenland
 * walk to the deadly mountain
+He once said:
+> bla bla blub and 
+> hui fui wui
