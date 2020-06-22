@@ -16,3 +16,6 @@ He once said:
 
 ## image
 ![Frodo jpg](https://upload.wikimedia.org/wikipedia/en/c/ca/BakshiFrodo.JPG)
+
+
+<img src="https://upload.wikimedia.org/wikipedia/en/c/ca/BakshiFrodo.JPG"/>
