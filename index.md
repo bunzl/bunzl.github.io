@@ -5,4 +5,6 @@ Frodo is repeatedly wounded during the quest, and becomes increasingly burdened 
 
 Frodo's name comes from the Old English name Fróda, meaning "wise by experience". Commentators have written that he combines courage, selflessness, and fidelity, and that as a good character, he seems unexciting but grows through his quest, an unheroic person who reaches heroic stature. 
 ## Traits
-love the one and only ring
+* love the one and only ring
+* hang around in Auenland
+* walk to the deadly mountain
