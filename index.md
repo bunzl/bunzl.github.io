@@ -10,7 +10,7 @@ Frodo's name comes from the Old English name Fróda, meaning "wise by experience
 * walk to the deadly mountain
 
 ## Quote
-He the guy once said:
+He the super duper guy once said:
 > bla bla blub and 
 > hui fui wui
 
